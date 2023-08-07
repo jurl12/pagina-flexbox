@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ejercicio</title>
+  <link rel="stylesheet" href="/images/css/estilo.css">
+</head>
+<body>
+
+  <nav class="verde">
+    <img src="/images/imagenes/logo.png" alt="" class="acc"></div>
+    <ul>
+      <li><a href="#" class="letrasm">Home</a></li>
+      <li><a href="#" class="letrasm">About</a></li>
+      <li><a href="#" class="letrasm">Work</a></li>
+      <li><a href="#" class="letrasm">Contact</a></li>
+      
+    </nav>
+
+
+
+<header class="azul">
+<img src="/images/imagenes/iphone.png" alt="" class="ac">
+<div>
+<h1 class="uno">We design iOS apps</h1>
+<p class="r">Ut in nulla Enim. Phasellus Molestie Magna Non Est Bibendum <br> Non Venenatis ut In Nulla Enim. phasellus Molestie. </p>
+<p class="a"> <br> Vivamus hendrerit arcu sed erat molestie vehicula.sed auctor <br> neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. <br> phasellus molestie tempor. Suspendisse dictum feugiat.</p><br>
+
+<button class="but_1">Request a quote</button> or    <a href="#" class="mover"><img src="../imagenes/shape01.png" alt="" class="loguito1">see our recent work</a>
+
+</div>
+</header>
+<section class="logos">
+  <img src="/images/imagenes/dummy01.png" class="logo1" alt="">
+<img src="/images/imagenes/dummy02.png" class="logo1" alt="">
+<img src="/images/imagenes/dummy03.png" class="logo1" alt="">
+<img src="/images/imagenes/dummy04.png" class="logo1" alt="">
+<img src="/images/imagenes/dummy05.png" class="logo1" alt="">
+</section>
+<div class="principal">
+    <div class="container">
+      <img src="/images/imagenes/img3.png" alt=""class="presentacion">
+      <span><h2>Engaging interfaces</h2></span>
+      <p>
+        Lorem ipsum dolor sit amet, consecteur adip-
+        iscing elit. Vivamus luctus urna ultricies
+        ac tempor dui sagittis.</p>
+        <button>Read More</button>
+    </div>
+
+    <div class="container">
+      <img src="/images/imagenes/img2.png" alt="" class="presentacion">
+      <span><h2>Usable designs</h2></span>
+      <p>Lorem ipsum dolor sit amet, consecteur adip-
+    iscing elit. Vivamus luctus urna ultricies
+    ac tempor dui sagittis.</p>
+    <button>Read More</button>
+    </div>
+
+
+    <div class="container">
+      <img src="/images/imagenes/img3.png" alt="" class="presentacion">
+      <span><h2>Solid development</h2></span>
+      <p>
+        Lorem ipsum dolor sit amet, consecteur adip-
+        iscing elit. Vivamus luctus urna ultricies
+        ac tempor dui sagittis.</p>
+        <button>Read More</button>
+    </div>
+</div>
+
+<div class="imagenesarti">
+<main class="imageness"><img src="/images/imagenes/shape02.png" width="30px" height="30px"><span id="texto1">Selected  projects</span></main>
+                            
+  <article class="image1"></article>
+  <article class="image1"></article>
+  <article class="image1"></article>
+  <article class="image1"></article>
+</div>
+<article class="articul1">
+<section class="section1">
+<main class="imagenes2"><img src="/images/imagenes/shape03.png" width="30px" height="30px"><span id="texto2">   From our blog 
+</span></main>
+<div class="nd"><img class="imagenes3" src="/images/imagenes/depositphotos_11269208-stock-photo-dog-megaphone.jpg" alt="" height="160" width="160">
+  <div class="letras"><h1>Our work process reviewed</h1><br>
+<p>phasellus molestie magna non est bibendum non <br>
+venenatis nisl tempor. Suspendise dictum feuglat <br> 
+nisl ut dapibus mauris <p class="c">Read more</p> <br>
